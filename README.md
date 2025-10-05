@@ -1,7 +1,7 @@
 # Адаптивный алгоритм работы светофоров
 
 <p align="left">
-  <img width="700" src="https://logos44.ru/wp-content/uploads/2023/11/1640437874_36-funart-pro-p-foni-so-svetoforami-39.jpeg">
+  <img width="700" src="https://media.istockphoto.com/id/1459525897/ru/фото/двойной-подвесной-светофор-со-всеми-тремя-цветами-на-пустом-синем-фоне-неба-пространство-3d.jpg?s=612x612&w=0&k=20&c=Ftk6jKc7kr9UM9hEn532t0Ggc9oEjNBtzKwM3AvFXPQ=">
 </p>
 
 ![badge](https://img.shields.io/badge/algorithm-description-blue)
